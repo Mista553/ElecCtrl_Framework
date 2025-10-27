@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "robot.h": "c",
+        "bsp_init.h": "c",
+        "bsp_log.h": "c"
+    }
+}
