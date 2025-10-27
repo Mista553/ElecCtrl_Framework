@@ -70,10 +70,12 @@ static void MotorSenderGrouping(DJIMotorInstance *motor, CAN_Init_Config_s *conf
         {
             if (dji_motor_instance[i]->motor_can_instance->can_handle == config->can_handle && dji_motor_instance[i]->motor_can_instance->rx_id == config->rx_id)
             {
-                LOGERROR("[dji_motor] ID crash. Check in debug mode, add dji_motor_instance to watch to get more information.");
+                ;
+                // LOGERROR("[dji_motor] ID crash. Check in debug mode, add dji_motor_instance to watch to get more information.");
                 uint16_t can_bus = config->can_handle == &hcan1 ? 1 : 2;
                 while (1) // 6020的id 1-4和2006/3508的id 5-8会发生冲突(若有注册,即1!5,2!6,3!7,4!8) (1!5!,LTC! (((不是)
-                    LOGERROR("[dji_motor] id [%d], can_bus [%d]", config->rx_id, can_bus);
+                    ;
+                    // LOGERROR("[dji_motor] id [%d], can_bus [%d]", config->rx_id, can_bus);
             }
         }
         break;
@@ -99,17 +101,20 @@ static void MotorSenderGrouping(DJIMotorInstance *motor, CAN_Init_Config_s *conf
         {
             if (dji_motor_instance[i]->motor_can_instance->can_handle == config->can_handle && dji_motor_instance[i]->motor_can_instance->rx_id == config->rx_id)
             {
-                LOGERROR("[dji_motor] ID crash. Check in debug mode, add dji_motor_instance to watch to get more information.");
+                ;
+                // LOGERROR("[dji_motor] ID crash. Check in debug mode, add dji_motor_instance to watch to get more information.");
                 uint16_t can_bus = config->can_handle == &hcan1 ? 1 : 2;
                 while (1) // 6020的id 1-4和2006/3508的id 5-8会发生冲突(若有注册,即1!5,2!6,3!7,4!8) (1!5!,LTC! (((不是)
-                    LOGERROR("[dji_motor] id [%d], can_bus [%d]", config->rx_id, can_bus);
+                    ;
+                    // LOGERROR("[dji_motor] id [%d], can_bus [%d]", config->rx_id, can_bus);
             }
         }
         break;
 
     default: // other motors should not be registered here
         while (1)
-            LOGERROR("[dji_motor]You must not register other motors using the API of DJI motor."); // 其他电机不应该在这里注册
+            ;
+            // LOGERROR("[dji_motor]You must not register other motors using the API of DJI motor."); // 其他电机不应该在这里注册
     }
 }
 
@@ -152,7 +157,8 @@ static void DJIMotorLostCallback(void *motor_ptr)
 {
     DJIMotorInstance *motor = (DJIMotorInstance *)motor_ptr;
     uint16_t can_bus = motor->motor_can_instance->can_handle == &hcan1 ? 1 : 2;
-    LOGWARNING("[dji_motor] Motor lost, can bus [%d] , id [%d]", can_bus, motor->motor_can_instance->tx_id);
+    ;
+    // LOGWARNING("[dji_motor] Motor lost, can bus [%d] , id [%d]", can_bus, motor->motor_can_instance->tx_id);
 }
 
 // 电机初始化,返回一个电机实例
@@ -204,7 +210,8 @@ void DJIMotorChangeFeed(DJIMotorInstance *motor, Closeloop_Type_e loop, Feedback
     else if (loop == SPEED_LOOP)
         motor->motor_settings.speed_feedback_source = type;
     else
-        LOGERROR("[dji_motor] loop type error, check memory access and func param"); // 检查是否传入了正确的LOOP类型,或发生了指针越界
+        ;
+        // LOGERROR("[dji_motor] loop type error, check memory access and func param"); // 检查是否传入了正确的LOOP类型,或发生了指针越界
 }
 
 void DJIMotorStop(DJIMotorInstance *motor)

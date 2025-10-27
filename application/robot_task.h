@@ -5,6 +5,8 @@
 #include "main.h"
 #include "cmsis_os.h"
 
+#include "motor_task.h"
+
 osThreadId_t motorTaskHandle;
 
 const osThreadAttr_t motorTask_attributes = {
@@ -35,7 +37,7 @@ __attribute__((noreturn)) void StartMOTORTASK(void *argument)
     for (;;)
     {
         motor_start = DWT_GetTimeline_ms();
-        // MotorControlTask();
+        MotorControlTask();
         motor_dt = DWT_GetTimeline_ms() - motor_start;
         if (motor_dt > 1)
             ;

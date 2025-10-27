@@ -1,9 +1,5 @@
 Archive member included to satisfy reference by file (symbol)
 
-D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
-                              CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj (__aeabi_ui2d)
-D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
-                              CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj (__aeabi_ddiv)
 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
                               cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj (__aeabi_uldivmod)
 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
@@ -901,7 +897,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .debug_line    0x00000000      0xe7c cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
- .debug_str     0x00000000    0xd652b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
+ .debug_str     0x00000000    0xd6508 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .debug_frame   0x00000000      0x250 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj
  .ARM.attributes
@@ -917,7 +913,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x11 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
  .debug_macro   0x00000000      0xad8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
  .debug_line    0x00000000       0x9a cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
- .debug_str     0x00000000     0x2edd cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
+ .debug_str     0x00000000     0x2eba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
  .ARM.attributes
                 0x00000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj
@@ -1163,7 +1159,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_line    0x00000000      0xaa0 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
- .debug_str     0x00000000    0xd603c cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000    0xd6019 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_frame   0x00000000       0xf0 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .ARM.attributes
@@ -1314,7 +1310,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_line    0x00000000      0xad7 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
- .debug_str     0x00000000    0xd60da cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_str     0x00000000    0xd60b7 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_frame   0x00000000      0x274 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .ARM.attributes
@@ -1462,7 +1458,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_line    0x00000000      0xae8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
- .debug_str     0x00000000    0xd612a cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000    0xd6107 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_frame   0x00000000      0x250 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .ARM.attributes
@@ -1576,7 +1572,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .debug_line    0x00000000      0x73f cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
- .debug_str     0x00000000    0xd5d2f cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x00000000    0xd5d0c cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .ARM.attributes
                 0x00000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
@@ -1814,7 +1810,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_line    0x00000000     0x13ac cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
- .debug_str     0x00000000    0xd60be cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_str     0x00000000    0xd609b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_frame   0x00000000       0xac cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .ARM.attributes
@@ -1962,7 +1958,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_line    0x00000000      0xf9d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_str     0x00000000    0xd6304 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_str     0x00000000    0xd62e1 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_frame   0x00000000      0x250 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .ARM.attributes
@@ -2112,7 +2108,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_line    0x00000000      0x93f cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
- .debug_str     0x00000000    0xd6120 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_str     0x00000000    0xd60fd cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_frame   0x00000000      0x264 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .ARM.attributes
@@ -2240,7 +2236,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_line    0x00000000      0x84a cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
- .debug_str     0x00000000    0xd5fe9 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_str     0x00000000    0xd5fc6 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_frame   0x00000000       0xdc cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .ARM.attributes
@@ -2680,7 +2676,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_line    0x00000000      0xa39 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
- .debug_str     0x00000000    0xd5f56 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_str     0x00000000    0xd5f33 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_frame   0x00000000      0x174 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .ARM.attributes
@@ -3108,7 +3104,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c.obj
  .debug_line    0x00000000      0x947 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c.obj
- .debug_str     0x00000000    0xd6247 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c.obj
+ .debug_str     0x00000000    0xd6224 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c.obj
  .debug_frame   0x00000000      0x20c cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c.obj
  .ARM.attributes
@@ -3487,7 +3483,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
  .debug_line    0x00000000      0x738 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
- .debug_str     0x00000000    0xd5d28 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
+ .debug_str     0x00000000    0xd5d05 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
  .ARM.attributes
                 0x00000000       0x34 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c.obj
@@ -3998,7 +3994,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xba cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj
  .debug_macro   0x00000000      0x12d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj
  .debug_line    0x00000000      0x7fa cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj
- .debug_str     0x00000000    0xd62b8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj
+ .debug_str     0x00000000    0xd6295 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj
  .debug_frame   0x00000000       0xb0 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c.obj
  .ARM.attributes
@@ -4227,7 +4223,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xaa cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
  .debug_macro   0x00000000       0x43 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
  .debug_line    0x00000000      0x3ab cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
- .debug_str     0x00000000     0x84e3 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
+ .debug_str     0x00000000     0x84c0 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
  .ARM.attributes
                 0x00000000       0x34 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
@@ -4336,7 +4332,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xaa cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
  .debug_macro   0x00000000       0x91 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
  .debug_line    0x00000000      0x904 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
- .debug_str     0x00000000     0xba72 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
+ .debug_str     0x00000000     0xba4f cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
  .debug_frame   0x00000000      0x23c cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
  .ARM.attributes
@@ -4647,7 +4643,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xaa cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
  .debug_macro   0x00000000       0x18 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
  .debug_line    0x00000000      0xd6e cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
- .debug_str     0x00000000     0xbad2 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
+ .debug_str     0x00000000     0xbaaf cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
  .comment       0x00000000       0x13 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
  .debug_frame   0x00000000      0x3c8 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
  .ARM.attributes
@@ -6788,7 +6784,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x6a CMakeFiles/ElecCtrl_Framework.dir/Core/Src/sysmem.c.obj
  .debug_macro   0x00000000      0x1df CMakeFiles/ElecCtrl_Framework.dir/Core/Src/sysmem.c.obj
  .debug_line    0x00000000      0x264 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/sysmem.c.obj
- .debug_str     0x00000000     0x71b8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x00000000     0x7195 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/sysmem.c.obj
  .comment       0x00000000       0x13 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/sysmem.c.obj
  .debug_frame   0x00000000       0x34 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/sysmem.c.obj
  .ARM.attributes
@@ -6919,7 +6915,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/syscalls.c.obj
  .debug_macro   0x00000000       0xce CMakeFiles/ElecCtrl_Framework.dir/Core/Src/syscalls.c.obj
  .debug_line    0x00000000      0x588 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/syscalls.c.obj
- .debug_str     0x00000000     0x94bf CMakeFiles/ElecCtrl_Framework.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000     0x949c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/syscalls.c.obj
  .comment       0x00000000       0x13 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/syscalls.c.obj
  .debug_frame   0x00000000      0x2ac CMakeFiles/ElecCtrl_Framework.dir/Core/Src/syscalls.c.obj
  .ARM.attributes
@@ -6927,388 +6923,6 @@ Discarded input sections
  .text          0x00000000       0x14 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
  .data          0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
  .bss           0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .text          0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .data          0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss           0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.SysTime   0x00000000        0x8 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.CPU_FREQ_Hz
-                0x00000000        0x4 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.CPU_FREQ_Hz_ms
-                0x00000000        0x4 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.CPU_FREQ_Hz_us
-                0x00000000        0x4 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.CYCCNT_RountCount
-                0x00000000        0x4 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.CYCCNT_LAST
-                0x00000000        0x4 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.CYCCNT64  0x00000000        0x8 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .text.DWT_CNT_Update
-                0x00000000       0x5c CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .text.DWT_Init
-                0x00000000       0x88 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .text.DWT_GetDeltaT
-                0x00000000       0x54 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .text.DWT_GetDeltaT64
-                0x00000000       0x68 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .text.DWT_SysTimeUpdate
-                0x00000000      0x1ac CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .text.DWT_GetTimeline_s
-                0x00000000       0x68 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .text.DWT_GetTimeline_ms
-                0x00000000       0x58 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .text.DWT_GetTimeline_us
-                0x00000000       0x4c CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .text.DWT_Delay
-                0x00000000       0x5c CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.bit_locker.3
-                0x00000000        0x1 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.CNT_TEMP1.2
-                0x00000000        0x8 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.CNT_TEMP2.1
-                0x00000000        0x8 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .bss.CNT_TEMP3.0
-                0x00000000        0x8 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_info    0x00000000      0x51c CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_abbrev  0x00000000      0x167 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_aranges
-                0x00000000       0x60 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_rnglists
-                0x00000000       0x45 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x301 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0xade CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x2b9 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x2e CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x2f CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x8e CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x51 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x103 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x6a CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x1df CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0xfb CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000     0x1011 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x11f CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000    0x15ea5 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x6d CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000     0x3693 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x190 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x5c CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x980 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x9e9 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x115 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x13e CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0xa5 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x174 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x287 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x5f CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x236 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0xb5b CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x38b CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x176 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0xf9 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x40f CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x122 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0xa6 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x12c CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x21e CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x2e CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x1b5 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0xd6 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x127 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x7e CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x89 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x225 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x8ed CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x4d CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x293 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0xba CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x12d CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x88 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x169 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x15a CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0xc9 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x26 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000      0x4c5 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0xb5 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0xaa CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x66 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0x74 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_macro   0x00000000       0xdd CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_line    0x00000000      0xb84 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_str     0x00000000    0xdabe0 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .comment       0x00000000       0x13 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .debug_frame   0x00000000      0x174 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .ARM.attributes
-                0x00000000       0x34 CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .text          0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .data          0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .bss           0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .text.MotorControlTask
-                0x00000000        0xe CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .debug_info    0x00000000       0x3d CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .debug_abbrev  0x00000000       0x2d CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .debug_aranges
-                0x00000000       0x20 CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .debug_rnglists
-                0x00000000       0x13 CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .debug_macro   0x00000000       0x1b CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .debug_macro   0x00000000      0xade CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .debug_line    0x00000000       0xa3 CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .debug_str     0x00000000     0x2f56 CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .comment       0x00000000       0x13 CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .debug_frame   0x00000000       0x30 CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .ARM.attributes
-                0x00000000       0x34 CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .group         0x00000000        0xc CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .text          0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .data          0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .bss           0x00000000        0x0 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .text.BSPInit  0x00000000        0xe CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .bss.motorTaskHandle
-                0x00000000        0x4 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .rodata        0x00000000        0xa CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .rodata.motorTask_attributes
-                0x00000000       0x24 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .text.OSTaskInit
-                0x00000000       0x24 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .text.StartMOTORTASK
-                0x00000000       0x40 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .text.RobotInit
-                0x00000000       0x18 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .bss.motor_start.1
-                0x00000000        0x4 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .bss.motor_dt.0
-                0x00000000        0x4 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_info    0x00000000      0x423 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_abbrev  0x00000000      0x1ab CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_aranges
-                0x00000000       0x38 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_rnglists
-                0x00000000       0x25 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x319 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0xade CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x2b9 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x2e CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x2f CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x8e CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x51 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x103 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x6a CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x1df CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0xfb CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000     0x1011 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x11f CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000    0x15ea5 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x6d CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000     0x3693 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x190 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x5c CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x980 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x9e9 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x115 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x13e CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0xa5 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x174 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x287 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x5f CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x236 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0xb5b CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x38b CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x176 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0xf9 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x40f CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x122 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0xa6 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x12c CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x21e CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x2e CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x1b5 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0xd6 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x127 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x7e CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x89 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x225 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x8ed CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x4d CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x293 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0xba CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x12d CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x88 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x169 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x15a CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0xc9 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x26 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000      0x4c5 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0xb5 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0xaa CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x6c CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0x74 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_macro   0x00000000       0xdd CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_line    0x00000000      0xab3 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_str     0x00000000    0xdaf3c CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .comment       0x00000000       0x13 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .debug_frame   0x00000000       0x84 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .ARM.attributes
-                0x00000000       0x34 CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
- .text          0x00000000      0x378 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .data          0x00000000        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .bss           0x00000000        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .debug_line    0x00000000      0x16f D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .debug_line_str
-                0x00000000       0x77 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .debug_info    0x00000000       0xd3 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .debug_abbrev  0x00000000       0x28 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .debug_aranges
-                0x00000000       0x20 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .debug_str     0x00000000      0x12f D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .debug_frame   0x00000000       0xac D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .ARM.attributes
-                0x00000000       0x22 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
- .text          0x00000000      0x424 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
- .data          0x00000000        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
- .bss           0x00000000        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
- .debug_line    0x00000000      0x184 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
- .debug_line_str
-                0x00000000       0x77 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
- .debug_info    0x00000000       0x57 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
- .debug_abbrev  0x00000000       0x28 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
- .debug_aranges
-                0x00000000       0x20 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
- .debug_str     0x00000000       0xaf D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
- .debug_frame   0x00000000       0x50 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
- .ARM.attributes
-                0x00000000       0x22 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
  .data          0x00000000        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
  .bss           0x00000000        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
  .text          0x00000000        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
@@ -7725,9 +7339,7 @@ LOAD CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
 LOAD CMakeFiles/ElecCtrl_Framework.dir/Core/Src/sysmem.c.obj
 LOAD CMakeFiles/ElecCtrl_Framework.dir/Core/Src/syscalls.c.obj
 LOAD CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
-LOAD CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj
-LOAD CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj
-LOAD CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj
+LOAD E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/stm32cubemx/../../Middlewares/ST/ARM/DSP/Lib/libarm_cortexM4lf_math.a
 LOAD D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
 START GROUP
 LOAD D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a
@@ -7751,7 +7363,7 @@ LOAD D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/cr
                 0x08000000                g_pfnVectors
                 0x08000188                        . = ALIGN (0x4)
 
-.text           0x08000190     0x7bd4
+.text           0x08000190     0x7bd8
                 0x08000190                        . = ALIGN (0x4)
  *(.text)
  .text          0x08000190       0x30 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
@@ -8229,294 +7841,294 @@ LOAD D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/cr
                 0x0800686c      0x1c4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/gpio.c.obj
                 0x0800686c                MX_GPIO_Init
  .text.MX_FREERTOS_Init
-                0x08006a30       0x24 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
+                0x08006a30       0x28 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
                 0x08006a30                MX_FREERTOS_Init
  .text.StartDefaultTask
-                0x08006a54       0x10 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
-                0x08006a54                StartDefaultTask
+                0x08006a58       0x10 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
+                0x08006a58                StartDefaultTask
  .text.MX_ADC1_Init
-                0x08006a64       0xa4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
-                0x08006a64                MX_ADC1_Init
+                0x08006a68       0xa4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
+                0x08006a68                MX_ADC1_Init
  .text.HAL_ADC_MspInit
-                0x08006b08       0x44 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
-                0x08006b08                HAL_ADC_MspInit
+                0x08006b0c       0x44 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
+                0x08006b0c                HAL_ADC_MspInit
  .text.MX_CAN1_Init
-                0x08006b4c       0x6c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
-                0x08006b4c                MX_CAN1_Init
+                0x08006b50       0x6c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
+                0x08006b50                MX_CAN1_Init
  .text.HAL_CAN_MspInit
-                0x08006bb8       0xb0 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
-                0x08006bb8                HAL_CAN_MspInit
+                0x08006bbc       0xb0 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
+                0x08006bbc                HAL_CAN_MspInit
  .text.MX_DAC_Init
-                0x08006c68       0x54 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
-                0x08006c68                MX_DAC_Init
+                0x08006c6c       0x54 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
+                0x08006c6c                MX_DAC_Init
  .text.HAL_DAC_MspInit
-                0x08006cbc       0x88 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
-                0x08006cbc                HAL_DAC_MspInit
+                0x08006cc0       0x88 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
+                0x08006cc0                HAL_DAC_MspInit
  .text.MX_I2C3_Init
-                0x08006d44       0x5c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
-                0x08006d44                MX_I2C3_Init
+                0x08006d48       0x5c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
+                0x08006d48                MX_I2C3_Init
  .text.HAL_I2C_MspInit
-                0x08006da0       0xd4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
-                0x08006da0                HAL_I2C_MspInit
+                0x08006da4       0xd4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
+                0x08006da4                HAL_I2C_MspInit
  .text.MX_SPI1_Init
-                0x08006e74       0x6c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
-                0x08006e74                MX_SPI1_Init
+                0x08006e78       0x6c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
+                0x08006e78                MX_SPI1_Init
  .text.HAL_SPI_MspInit
-                0x08006ee0       0xd0 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
-                0x08006ee0                HAL_SPI_MspInit
+                0x08006ee4       0xd0 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
+                0x08006ee4                HAL_SPI_MspInit
  .text.MX_TIM1_Init
-                0x08006fb0      0x170 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
-                0x08006fb0                MX_TIM1_Init
+                0x08006fb4      0x170 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+                0x08006fb4                MX_TIM1_Init
  .text.MX_TIM4_Init
-                0x08007120       0xb4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
-                0x08007120                MX_TIM4_Init
+                0x08007124       0xb4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+                0x08007124                MX_TIM4_Init
  .text.MX_TIM5_Init
-                0x080071d4      0x118 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
-                0x080071d4                MX_TIM5_Init
+                0x080071d8      0x118 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+                0x080071d8                MX_TIM5_Init
  .text.MX_TIM8_Init
-                0x080072ec      0x140 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
-                0x080072ec                MX_TIM8_Init
+                0x080072f0      0x140 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+                0x080072f0                MX_TIM8_Init
  .text.MX_TIM10_Init
-                0x0800742c       0x9c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
-                0x0800742c                MX_TIM10_Init
+                0x08007430       0x9c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+                0x08007430                MX_TIM10_Init
  .text.HAL_TIM_Base_MspInit
-                0x080074c8       0xd4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
-                0x080074c8                HAL_TIM_Base_MspInit
+                0x080074cc       0xd4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+                0x080074cc                HAL_TIM_Base_MspInit
  .text.HAL_TIM_PWM_MspInit
-                0x0800759c       0x44 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
-                0x0800759c                HAL_TIM_PWM_MspInit
+                0x080075a0       0x44 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+                0x080075a0                HAL_TIM_PWM_MspInit
  .text.HAL_TIM_MspPostInit
-                0x080075e0      0x1b8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
-                0x080075e0                HAL_TIM_MspPostInit
+                0x080075e4      0x1b8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+                0x080075e4                HAL_TIM_MspPostInit
  .text.MX_USB_OTG_FS_PCD_Init
-                0x08007798       0x5c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
-                0x08007798                MX_USB_OTG_FS_PCD_Init
+                0x0800779c       0x5c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
+                0x0800779c                MX_USB_OTG_FS_PCD_Init
  .text.HAL_PCD_MspInit
-                0x080077f4       0x98 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
-                0x080077f4                HAL_PCD_MspInit
+                0x080077f8       0x98 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
+                0x080077f8                HAL_PCD_MspInit
  .text.NMI_Handler
-                0x0800788c        0x8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
-                0x0800788c                NMI_Handler
+                0x08007890        0x8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08007890                NMI_Handler
  .text.HardFault_Handler
-                0x08007894        0x8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
-                0x08007894                HardFault_Handler
+                0x08007898        0x8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08007898                HardFault_Handler
  .text.MemManage_Handler
-                0x0800789c        0x8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
-                0x0800789c                MemManage_Handler
+                0x080078a0        0x8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080078a0                MemManage_Handler
  .text.BusFault_Handler
-                0x080078a4        0x8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080078a4                BusFault_Handler
+                0x080078a8        0x8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080078a8                BusFault_Handler
  .text.UsageFault_Handler
-                0x080078ac        0x8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080078ac                UsageFault_Handler
+                0x080078b0        0x8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080078b0                UsageFault_Handler
  .text.DebugMon_Handler
-                0x080078b4        0xe CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080078b4                DebugMon_Handler
- *fill*         0x080078c2        0x2 
+                0x080078b8        0xe CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080078b8                DebugMon_Handler
+ *fill*         0x080078c6        0x2 
  .text.CAN1_RX0_IRQHandler
-                0x080078c4       0x14 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080078c4                CAN1_RX0_IRQHandler
+                0x080078c8       0x14 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080078c8                CAN1_RX0_IRQHandler
  .text.CAN1_RX1_IRQHandler
-                0x080078d8       0x14 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080078d8                CAN1_RX1_IRQHandler
+                0x080078dc       0x14 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080078dc                CAN1_RX1_IRQHandler
  .text.TIM8_TRG_COM_TIM14_IRQHandler
-                0x080078ec       0x1c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
-                0x080078ec                TIM8_TRG_COM_TIM14_IRQHandler
+                0x080078f0       0x1c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080078f0                TIM8_TRG_COM_TIM14_IRQHandler
  .text.HAL_MspInit
-                0x08007908       0x58 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
-                0x08007908                HAL_MspInit
+                0x0800790c       0x58 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                0x0800790c                HAL_MspInit
  .text.HAL_InitTick
-                0x08007960       0xf8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
-                0x08007960                HAL_InitTick
+                0x08007964       0xf8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
+                0x08007964                HAL_InitTick
  .text.Reset_Handler
-                0x08007a58       0x50 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
-                0x08007a58                Reset_Handler
+                0x08007a5c       0x50 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
+                0x08007a5c                Reset_Handler
  .text.Default_Handler
-                0x08007aa8        0x2 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
-                0x08007aa8                RTC_Alarm_IRQHandler
-                0x08007aa8                HASH_RNG_IRQHandler
-                0x08007aa8                EXTI2_IRQHandler
-                0x08007aa8                TIM8_CC_IRQHandler
-                0x08007aa8                TIM1_CC_IRQHandler
-                0x08007aa8                DMA2_Stream5_IRQHandler
-                0x08007aa8                DMA1_Stream5_IRQHandler
-                0x08007aa8                PVD_IRQHandler
-                0x08007aa8                SDIO_IRQHandler
-                0x08007aa8                TAMP_STAMP_IRQHandler
-                0x08007aa8                CAN2_RX1_IRQHandler
-                0x08007aa8                EXTI3_IRQHandler
-                0x08007aa8                TIM1_UP_TIM10_IRQHandler
-                0x08007aa8                TIM8_UP_TIM13_IRQHandler
-                0x08007aa8                I2C3_ER_IRQHandler
-                0x08007aa8                EXTI0_IRQHandler
-                0x08007aa8                I2C2_EV_IRQHandler
-                0x08007aa8                DMA1_Stream2_IRQHandler
-                0x08007aa8                FPU_IRQHandler
-                0x08007aa8                OTG_HS_WKUP_IRQHandler
-                0x08007aa8                CAN2_SCE_IRQHandler
-                0x08007aa8                DMA2_Stream2_IRQHandler
-                0x08007aa8                SPI1_IRQHandler
-                0x08007aa8                TIM6_DAC_IRQHandler
-                0x08007aa8                TIM1_BRK_TIM9_IRQHandler
-                0x08007aa8                DCMI_IRQHandler
-                0x08007aa8                CAN2_RX0_IRQHandler
-                0x08007aa8                DMA2_Stream3_IRQHandler
-                0x08007aa8                USART6_IRQHandler
-                0x08007aa8                USART3_IRQHandler
-                0x08007aa8                UART5_IRQHandler
-                0x08007aa8                DMA2_Stream0_IRQHandler
-                0x08007aa8                TIM4_IRQHandler
-                0x08007aa8                I2C1_EV_IRQHandler
-                0x08007aa8                DMA1_Stream6_IRQHandler
-                0x08007aa8                DMA1_Stream1_IRQHandler
-                0x08007aa8                UART4_IRQHandler
-                0x08007aa8                TIM3_IRQHandler
-                0x08007aa8                RCC_IRQHandler
-                0x08007aa8                TIM8_BRK_TIM12_IRQHandler
-                0x08007aa8                Default_Handler
-                0x08007aa8                EXTI15_10_IRQHandler
-                0x08007aa8                ADC_IRQHandler
-                0x08007aa8                DMA1_Stream7_IRQHandler
-                0x08007aa8                TIM7_IRQHandler
-                0x08007aa8                CAN2_TX_IRQHandler
-                0x08007aa8                TIM5_IRQHandler
-                0x08007aa8                DMA2_Stream7_IRQHandler
-                0x08007aa8                I2C3_EV_IRQHandler
-                0x08007aa8                EXTI9_5_IRQHandler
-                0x08007aa8                RTC_WKUP_IRQHandler
-                0x08007aa8                ETH_WKUP_IRQHandler
-                0x08007aa8                SPI2_IRQHandler
-                0x08007aa8                OTG_HS_EP1_IN_IRQHandler
-                0x08007aa8                DMA1_Stream0_IRQHandler
-                0x08007aa8                CAN1_TX_IRQHandler
-                0x08007aa8                EXTI4_IRQHandler
-                0x08007aa8                FSMC_IRQHandler
-                0x08007aa8                ETH_IRQHandler
-                0x08007aa8                OTG_HS_EP1_OUT_IRQHandler
-                0x08007aa8                WWDG_IRQHandler
-                0x08007aa8                TIM2_IRQHandler
-                0x08007aa8                OTG_FS_WKUP_IRQHandler
-                0x08007aa8                TIM1_TRG_COM_TIM11_IRQHandler
-                0x08007aa8                OTG_HS_IRQHandler
-                0x08007aa8                EXTI1_IRQHandler
-                0x08007aa8                USART2_IRQHandler
-                0x08007aa8                I2C2_ER_IRQHandler
-                0x08007aa8                DMA2_Stream1_IRQHandler
-                0x08007aa8                CAN1_SCE_IRQHandler
-                0x08007aa8                FLASH_IRQHandler
-                0x08007aa8                DMA2_Stream4_IRQHandler
-                0x08007aa8                USART1_IRQHandler
-                0x08007aa8                OTG_FS_IRQHandler
-                0x08007aa8                SPI3_IRQHandler
-                0x08007aa8                DMA1_Stream4_IRQHandler
-                0x08007aa8                I2C1_ER_IRQHandler
-                0x08007aa8                DMA2_Stream6_IRQHandler
-                0x08007aa8                DMA1_Stream3_IRQHandler
+                0x08007aac        0x2 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
+                0x08007aac                RTC_Alarm_IRQHandler
+                0x08007aac                HASH_RNG_IRQHandler
+                0x08007aac                EXTI2_IRQHandler
+                0x08007aac                TIM8_CC_IRQHandler
+                0x08007aac                TIM1_CC_IRQHandler
+                0x08007aac                DMA2_Stream5_IRQHandler
+                0x08007aac                DMA1_Stream5_IRQHandler
+                0x08007aac                PVD_IRQHandler
+                0x08007aac                SDIO_IRQHandler
+                0x08007aac                TAMP_STAMP_IRQHandler
+                0x08007aac                CAN2_RX1_IRQHandler
+                0x08007aac                EXTI3_IRQHandler
+                0x08007aac                TIM1_UP_TIM10_IRQHandler
+                0x08007aac                TIM8_UP_TIM13_IRQHandler
+                0x08007aac                I2C3_ER_IRQHandler
+                0x08007aac                EXTI0_IRQHandler
+                0x08007aac                I2C2_EV_IRQHandler
+                0x08007aac                DMA1_Stream2_IRQHandler
+                0x08007aac                FPU_IRQHandler
+                0x08007aac                OTG_HS_WKUP_IRQHandler
+                0x08007aac                CAN2_SCE_IRQHandler
+                0x08007aac                DMA2_Stream2_IRQHandler
+                0x08007aac                SPI1_IRQHandler
+                0x08007aac                TIM6_DAC_IRQHandler
+                0x08007aac                TIM1_BRK_TIM9_IRQHandler
+                0x08007aac                DCMI_IRQHandler
+                0x08007aac                CAN2_RX0_IRQHandler
+                0x08007aac                DMA2_Stream3_IRQHandler
+                0x08007aac                USART6_IRQHandler
+                0x08007aac                USART3_IRQHandler
+                0x08007aac                UART5_IRQHandler
+                0x08007aac                DMA2_Stream0_IRQHandler
+                0x08007aac                TIM4_IRQHandler
+                0x08007aac                I2C1_EV_IRQHandler
+                0x08007aac                DMA1_Stream6_IRQHandler
+                0x08007aac                DMA1_Stream1_IRQHandler
+                0x08007aac                UART4_IRQHandler
+                0x08007aac                TIM3_IRQHandler
+                0x08007aac                RCC_IRQHandler
+                0x08007aac                TIM8_BRK_TIM12_IRQHandler
+                0x08007aac                Default_Handler
+                0x08007aac                EXTI15_10_IRQHandler
+                0x08007aac                ADC_IRQHandler
+                0x08007aac                DMA1_Stream7_IRQHandler
+                0x08007aac                TIM7_IRQHandler
+                0x08007aac                CAN2_TX_IRQHandler
+                0x08007aac                TIM5_IRQHandler
+                0x08007aac                DMA2_Stream7_IRQHandler
+                0x08007aac                I2C3_EV_IRQHandler
+                0x08007aac                EXTI9_5_IRQHandler
+                0x08007aac                RTC_WKUP_IRQHandler
+                0x08007aac                ETH_WKUP_IRQHandler
+                0x08007aac                SPI2_IRQHandler
+                0x08007aac                OTG_HS_EP1_IN_IRQHandler
+                0x08007aac                DMA1_Stream0_IRQHandler
+                0x08007aac                CAN1_TX_IRQHandler
+                0x08007aac                EXTI4_IRQHandler
+                0x08007aac                FSMC_IRQHandler
+                0x08007aac                ETH_IRQHandler
+                0x08007aac                OTG_HS_EP1_OUT_IRQHandler
+                0x08007aac                WWDG_IRQHandler
+                0x08007aac                TIM2_IRQHandler
+                0x08007aac                OTG_FS_WKUP_IRQHandler
+                0x08007aac                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08007aac                OTG_HS_IRQHandler
+                0x08007aac                EXTI1_IRQHandler
+                0x08007aac                USART2_IRQHandler
+                0x08007aac                I2C2_ER_IRQHandler
+                0x08007aac                DMA2_Stream1_IRQHandler
+                0x08007aac                CAN1_SCE_IRQHandler
+                0x08007aac                FLASH_IRQHandler
+                0x08007aac                DMA2_Stream4_IRQHandler
+                0x08007aac                USART1_IRQHandler
+                0x08007aac                OTG_FS_IRQHandler
+                0x08007aac                SPI3_IRQHandler
+                0x08007aac                DMA1_Stream4_IRQHandler
+                0x08007aac                I2C1_ER_IRQHandler
+                0x08007aac                DMA2_Stream6_IRQHandler
+                0x08007aac                DMA1_Stream3_IRQHandler
  .text.__udivmoddi4
-                0x08007aaa      0x2a0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
-                0x08007aaa                __udivmoddi4
+                0x08007aae      0x2a0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08007aae                __udivmoddi4
  *(.glue_7)
- .glue_7        0x08007d4a        0x0 linker stubs
+ .glue_7        0x08007d4e        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08007d4a        0x0 linker stubs
+ .glue_7t       0x08007d4e        0x0 linker stubs
  *(.eh_frame)
- *fill*         0x08007d4a        0x2 
- .eh_frame      0x08007d4c        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
+ *fill*         0x08007d4e        0x2 
+ .eh_frame      0x08007d50        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
  *(.init)
- .init          0x08007d4c        0x4 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crti.o
-                0x08007d4c                _init
- .init          0x08007d50        0x8 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtn.o
+ .init          0x08007d50        0x4 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crti.o
+                0x08007d50                _init
+ .init          0x08007d54        0x8 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtn.o
  *(.fini)
- .fini          0x08007d58        0x4 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crti.o
-                0x08007d58                _fini
- .fini          0x08007d5c        0x8 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtn.o
-                0x08007d64                        . = ALIGN (0x4)
-                0x08007d64                        _etext = .
+ .fini          0x08007d5c        0x4 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crti.o
+                0x08007d5c                _fini
+ .fini          0x08007d60        0x8 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtn.o
+                0x08007d68                        . = ALIGN (0x4)
+                0x08007d68                        _etext = .
 
-.vfp11_veneer   0x08007d64        0x0
- .vfp11_veneer  0x08007d64        0x0 linker stubs
+.vfp11_veneer   0x08007d68        0x0
+ .vfp11_veneer  0x08007d68        0x0 linker stubs
 
-.v4_bx          0x08007d64        0x0
- .v4_bx         0x08007d64        0x0 linker stubs
+.v4_bx          0x08007d68        0x0
+ .v4_bx         0x08007d68        0x0 linker stubs
 
-.iplt           0x08007d64        0x0
- .iplt          0x08007d64        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
+.iplt           0x08007d68        0x0
+ .iplt          0x08007d68        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
 
-.rodata         0x08007d64       0x60
-                0x08007d64                        . = ALIGN (0x4)
+.rodata         0x08007d68       0x60
+                0x08007d68                        . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x08007d64        0x5 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
- *fill*         0x08007d69        0x3 
- .rodata        0x08007d6c        0xd cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
- *fill*         0x08007d79        0x3 
- .rodata        0x08007d7c        0xc CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
+ .rodata        0x08007d68        0x5 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+ *fill*         0x08007d6d        0x3 
+ .rodata        0x08007d70        0xd cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+ *fill*         0x08007d7d        0x3 
+ .rodata        0x08007d80        0xc CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
  *(.rodata*)
  .rodata.AHBPrescTable
-                0x08007d88       0x10 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
-                0x08007d88                AHBPrescTable
+                0x08007d8c       0x10 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
+                0x08007d8c                AHBPrescTable
  .rodata.APBPrescTable
-                0x08007d98        0x8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
-                0x08007d98                APBPrescTable
+                0x08007d9c        0x8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
+                0x08007d9c                APBPrescTable
  .rodata.defaultTask_attributes
-                0x08007da0       0x24 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
-                0x08007da0                defaultTask_attributes
-                0x08007dc4                        . = ALIGN (0x4)
+                0x08007da4       0x24 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
+                0x08007da4                defaultTask_attributes
+                0x08007dc8                        . = ALIGN (0x4)
 
-.ARM.extab      0x08007dc4        0x0
-                0x08007dc4                        . = ALIGN (0x4)
+.ARM.extab      0x08007dc8        0x0
+                0x08007dc8                        . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x08007dc4                        . = ALIGN (0x4)
+                0x08007dc8                        . = ALIGN (0x4)
 
-.ARM            0x08007dc4        0x8
-                0x08007dc4                        . = ALIGN (0x4)
-                0x08007dc4                        __exidx_start = .
+.ARM            0x08007dc8        0x8
+                0x08007dc8                        . = ALIGN (0x4)
+                0x08007dc8                        __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x08007dc4        0x8 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memcpy.o)
+ .ARM.exidx     0x08007dc8        0x8 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memcpy.o)
  .ARM.exidx.text.__udivmoddi4
-                0x08007dcc        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08007dd0        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
                                   0x8 (size before relaxing)
-                0x08007dcc                        __exidx_end = .
-                0x08007dcc                        . = ALIGN (0x4)
+                0x08007dd0                        __exidx_end = .
+                0x08007dd0                        . = ALIGN (0x4)
 
-.preinit_array  0x08007dcc        0x0
-                0x08007dcc                        . = ALIGN (0x4)
-                0x08007dcc                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08007dd0        0x0
+                0x08007dd0                        . = ALIGN (0x4)
+                0x08007dd0                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08007dcc                        PROVIDE (__preinit_array_end = .)
-                0x08007dcc                        . = ALIGN (0x4)
+                0x08007dd0                        PROVIDE (__preinit_array_end = .)
+                0x08007dd0                        . = ALIGN (0x4)
 
-.init_array     0x08007dcc        0x4
-                0x08007dcc                        . = ALIGN (0x4)
-                0x08007dcc                        PROVIDE (__init_array_start = .)
+.init_array     0x08007dd0        0x4
+                0x08007dd0                        . = ALIGN (0x4)
+                0x08007dd0                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x08007dcc        0x4 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
-                0x08007dd0                        PROVIDE (__init_array_end = .)
-                0x08007dd0                        . = ALIGN (0x4)
+ .init_array    0x08007dd0        0x4 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08007dd4                        PROVIDE (__init_array_end = .)
+                0x08007dd4                        . = ALIGN (0x4)
 
-.fini_array     0x08007dd0        0x4
-                0x08007dd0                        . = ALIGN (0x4)
-                0x08007dd0                        PROVIDE (__fini_array_start = .)
+.fini_array     0x08007dd4        0x4
+                0x08007dd4                        . = ALIGN (0x4)
+                0x08007dd4                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08007dd0        0x4 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
-                0x08007dd4                        PROVIDE (__fini_array_end = .)
-                0x08007dd4                        . = ALIGN (0x4)
-                0x08007dd4                        _siccmram = LOADADDR (.ccmram)
+ .fini_array    0x08007dd4        0x4 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08007dd8                        PROVIDE (__fini_array_end = .)
+                0x08007dd8                        . = ALIGN (0x4)
+                0x08007dd8                        _siccmram = LOADADDR (.ccmram)
 
-.rel.dyn        0x08007dd4        0x0
- .rel.iplt      0x08007dd4        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
+.rel.dyn        0x08007dd8        0x0
+ .rel.iplt      0x08007dd8        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
 
-.ccmram         0x10000000        0x0 load address 0x08007dd4
+.ccmram         0x10000000        0x0 load address 0x08007dd8
                 0x10000000                        . = ALIGN (0x4)
                 0x10000000                        _sccmram = .
  *(.ccmram)
  *(.ccmram*)
                 0x10000000                        . = ALIGN (0x4)
                 0x10000000                        _eccmram = .
-                0x08007dd4                        _sidata = LOADADDR (.data)
+                0x08007dd8                        _sidata = LOADADDR (.data)
 
-.data           0x20000000       0x10 load address 0x08007dd4
+.data           0x20000000       0x10 load address 0x08007dd8
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -8537,10 +8149,10 @@ LOAD D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/cr
  *(.RamFunc*)
                 0x20000010                        . = ALIGN (0x4)
 
-.igot.plt       0x20000010        0x0 load address 0x08007de4
+.igot.plt       0x20000010        0x0 load address 0x08007de8
  .igot.plt      0x20000010        0x0 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/crtbegin.o
 
-.tdata          0x20000010        0x0 load address 0x08007de4
+.tdata          0x20000010        0x0 load address 0x08007de8
  *(.tdata .tdata.* .gnu.linkonce.td.*)
                 0x20000010                        . = ALIGN (0x4)
                 0x20000010                        _edata = .
@@ -8557,7 +8169,7 @@ LOAD D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/cr
                 [!provide]                        PROVIDE (__data_source_end = __tdata_source_end)
                 [!provide]                        PROVIDE (__data_source_size = (__data_source_end - __data_source))
 
-.tbss           0x20000010        0x0 load address 0x08007de4
+.tbss           0x20000010        0x0 load address 0x08007de8
                 0x20000010                        _sbss = .
                 0x20000010                        __bss_start__ = _sbss
  *(.tbss .tbss.*)
@@ -8574,7 +8186,7 @@ LOAD D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/cr
                 [!provide]                        PROVIDE (__arm32_tls_tcb_offset = MAX (0x8, __tls_align))
                 [!provide]                        PROVIDE (__arm64_tls_tcb_offset = MAX (0x10, __tls_align))
 
-.bss            0x20000010     0x5138 load address 0x08007de4
+.bss            0x20000010     0x5138 load address 0x08007de8
  *(.bss)
  *(.bss*)
  .bss.completed.1
@@ -8713,7 +8325,7 @@ LOAD D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard/cr
                 [!provide]                        PROVIDE (__bss_size = (__bss_end - __bss_start))
 
 ._user_heap_stack
-                0x20005148      0x600 load address 0x08007de4
+                0x20005148      0x600 load address 0x08007de8
                 0x20005148                        . = ALIGN (0x8)
                 [!provide]                        PROVIDE (end = .)
                 0x20005148                        PROVIDE (_end = .)
@@ -8861,7 +8473,7 @@ LOAD linker stubs
  .comment       0x00000024       0x13 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memset.o)
  .comment       0x00000024       0x13 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-init.o)
 
-.debug_info     0x00000000    0x2131e
+.debug_info     0x00000000    0x2132c
  .debug_info    0x00000000      0x512 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
  .debug_info    0x00000512     0x299d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .debug_info    0x00002eaf     0x14db cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
@@ -8885,26 +8497,26 @@ LOAD linker stubs
  .debug_info    0x00018c27      0x4de cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
  .debug_info    0x00019105      0xb73 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/main.c.obj
  .debug_info    0x00019c78      0x491 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/gpio.c.obj
- .debug_info    0x0001a109      0x38d CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
- .debug_info    0x0001a496      0x82a CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
- .debug_info    0x0001acc0      0xabb CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
- .debug_info    0x0001b77b      0x881 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
- .debug_info    0x0001bffc      0x984 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
- .debug_info    0x0001c980      0x969 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
- .debug_info    0x0001d2e9     0x11b2 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
- .debug_info    0x0001e49b      0x931 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
- .debug_info    0x0001edcc      0xaa7 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_info    0x0001f873      0x4b7 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_info    0x0001fd2a      0xbee CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
- .debug_info    0x00020918       0x30 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
- .debug_info    0x00020948       0x24 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_info    0x0002096c      0x703 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .debug_info    0x0002106f       0x3c D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
- .debug_info    0x000210ab      0x135 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memset.o)
- .debug_info    0x000211e0      0x10b D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-init.o)
- .debug_info    0x000212eb       0x33 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memcpy.o)
+ .debug_info    0x0001a109      0x39b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
+ .debug_info    0x0001a4a4      0x82a CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
+ .debug_info    0x0001acce      0xabb CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
+ .debug_info    0x0001b789      0x881 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
+ .debug_info    0x0001c00a      0x984 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
+ .debug_info    0x0001c98e      0x969 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
+ .debug_info    0x0001d2f7     0x11b2 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+ .debug_info    0x0001e4a9      0x931 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
+ .debug_info    0x0001edda      0xaa7 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_info    0x0001f881      0x4b7 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_info    0x0001fd38      0xbee CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
+ .debug_info    0x00020926       0x30 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
+ .debug_info    0x00020956       0x24 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x0002097a      0x703 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_info    0x0002107d       0x3c D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x000210b9      0x135 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memset.o)
+ .debug_info    0x000211ee      0x10b D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-init.o)
+ .debug_info    0x000212f9       0x33 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memcpy.o)
 
-.debug_abbrev   0x00000000     0x5199
+.debug_abbrev   0x00000000     0x51b1
  .debug_abbrev  0x00000000      0x11a cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
  .debug_abbrev  0x0000011a      0x278 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .debug_abbrev  0x00000392      0x283 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
@@ -8928,24 +8540,24 @@ LOAD linker stubs
  .debug_abbrev  0x000033c8      0x25c cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
  .debug_abbrev  0x00003624      0x24d CMakeFiles/ElecCtrl_Framework.dir/Core/Src/main.c.obj
  .debug_abbrev  0x00003871      0x152 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/gpio.c.obj
- .debug_abbrev  0x000039c3      0x12c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
- .debug_abbrev  0x00003aef      0x1d2 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
- .debug_abbrev  0x00003cc1      0x21f CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
- .debug_abbrev  0x00003ee0      0x1fa CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
- .debug_abbrev  0x000040da      0x1f1 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
- .debug_abbrev  0x000042cb      0x1fa CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
- .debug_abbrev  0x000044c5      0x278 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
- .debug_abbrev  0x0000473d      0x219 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
- .debug_abbrev  0x00004956      0x1c6 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_abbrev  0x00004b1c      0x119 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_abbrev  0x00004c35      0x1f4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
- .debug_abbrev  0x00004e29       0x24 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
- .debug_abbrev  0x00004e4d       0x14 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_abbrev  0x00004e61      0x16a D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .debug_abbrev  0x00004fcb       0x26 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
- .debug_abbrev  0x00004ff1       0xb7 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memset.o)
- .debug_abbrev  0x000050a8       0xc9 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-init.o)
- .debug_abbrev  0x00005171       0x28 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memcpy.o)
+ .debug_abbrev  0x000039c3      0x144 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
+ .debug_abbrev  0x00003b07      0x1d2 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
+ .debug_abbrev  0x00003cd9      0x21f CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
+ .debug_abbrev  0x00003ef8      0x1fa CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
+ .debug_abbrev  0x000040f2      0x1f1 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
+ .debug_abbrev  0x000042e3      0x1fa CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
+ .debug_abbrev  0x000044dd      0x278 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+ .debug_abbrev  0x00004755      0x219 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
+ .debug_abbrev  0x0000496e      0x1c6 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_abbrev  0x00004b34      0x119 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_abbrev  0x00004c4d      0x1f4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
+ .debug_abbrev  0x00004e41       0x24 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
+ .debug_abbrev  0x00004e65       0x14 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x00004e79      0x16a D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x00004fe3       0x26 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x00005009       0xb7 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memset.o)
+ .debug_abbrev  0x000050c0       0xc9 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-init.o)
+ .debug_abbrev  0x00005189       0x28 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memcpy.o)
 
 .debug_aranges  0x00000000     0x1e58
  .debug_aranges
@@ -9106,7 +8718,7 @@ LOAD linker stubs
  .debug_rnglists
                 0x000016dc       0x6d D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
 
-.debug_macro    0x00000000    0x26cb5
+.debug_macro    0x00000000    0x26cbf
  .debug_macro   0x00000000      0x252 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
  .debug_macro   0x00000252      0xad8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
  .debug_macro   0x00000d2a       0x2e cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
@@ -9197,20 +8809,20 @@ LOAD linker stubs
  .debug_macro   0x00024da5       0x66 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/main.c.obj
  .debug_macro   0x00024e0b       0xdd CMakeFiles/ElecCtrl_Framework.dir/Core/Src/main.c.obj
  .debug_macro   0x00024ee8      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/gpio.c.obj
- .debug_macro   0x00025153      0x2eb CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
- .debug_macro   0x0002543e       0x6c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
- .debug_macro   0x000254aa      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
- .debug_macro   0x00025715      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
- .debug_macro   0x00025980      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
- .debug_macro   0x00025beb      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
- .debug_macro   0x00025e56      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
- .debug_macro   0x000260c1      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
- .debug_macro   0x0002632c      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
- .debug_macro   0x00026597      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_macro   0x00026802      0x261 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_macro   0x00026a63      0x252 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
+ .debug_macro   0x00025153      0x2f5 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
+ .debug_macro   0x00025448       0x6c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
+ .debug_macro   0x000254b4      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
+ .debug_macro   0x0002571f      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
+ .debug_macro   0x0002598a      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
+ .debug_macro   0x00025bf5      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
+ .debug_macro   0x00025e60      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
+ .debug_macro   0x000260cb      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+ .debug_macro   0x00026336      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
+ .debug_macro   0x000265a1      0x26b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_macro   0x0002680c      0x261 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_macro   0x00026a6d      0x252 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
 
-.debug_line     0x00000000    0x22aac
+.debug_line     0x00000000    0x22b0a
  .debug_line    0x00000000      0x7b5 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
  .debug_line    0x000007b5     0x37a6 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .debug_line    0x00003f5b     0x1991 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
@@ -9234,68 +8846,68 @@ LOAD linker stubs
  .debug_line    0x0001ae6a      0x63b cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
  .debug_line    0x0001b4a5      0xa4c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/main.c.obj
  .debug_line    0x0001bef1      0x788 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/gpio.c.obj
- .debug_line    0x0001c679      0x97c CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
- .debug_line    0x0001cff5      0x7b8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
- .debug_line    0x0001d7ad      0x7b7 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
- .debug_line    0x0001df64      0x7a3 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
- .debug_line    0x0001e707      0x7be CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
- .debug_line    0x0001eec5      0x7c7 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
- .debug_line    0x0001f68c      0xb97 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
- .debug_line    0x00020223      0x7b4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
- .debug_line    0x000209d7      0x7f9 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_line    0x000211d0      0x740 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_line    0x00021910      0x7bd CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
- .debug_line    0x000220cd       0x7a CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
- .debug_line    0x00022147       0x4e D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_line    0x00022195      0x503 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .debug_line    0x00022698       0x4a D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
- .debug_line    0x000226e2      0x1cd D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memset.o)
- .debug_line    0x000228af      0x144 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-init.o)
- .debug_line    0x000229f3       0xb9 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memcpy.o)
+ .debug_line    0x0001c679      0x9da CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
+ .debug_line    0x0001d053      0x7b8 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
+ .debug_line    0x0001d80b      0x7b7 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
+ .debug_line    0x0001dfc2      0x7a3 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
+ .debug_line    0x0001e765      0x7be CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
+ .debug_line    0x0001ef23      0x7c7 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
+ .debug_line    0x0001f6ea      0xb97 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+ .debug_line    0x00020281      0x7b4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
+ .debug_line    0x00020a35      0x7f9 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_line    0x0002122e      0x740 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x0002196e      0x7bd CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
+ .debug_line    0x0002212b       0x7a CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
+ .debug_line    0x000221a5       0x4e D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x000221f3      0x503 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_line    0x000226f6       0x4a D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00022740      0x1cd D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memset.o)
+ .debug_line    0x0002290d      0x144 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-init.o)
+ .debug_line    0x00022a51       0xb9 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memcpy.o)
 
-.debug_str      0x00000000    0xeaa15
- .debug_str     0x00000000    0xeaa15 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
-                              0xd5eea (size before relaxing)
- .debug_str     0x000eaa15    0xd7274 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_str     0x000eaa15    0xd6a80 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_str     0x000eaa15    0xd64d7 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
- .debug_str     0x000eaa15    0xd631e cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_str     0x000eaa15    0xd6065 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_str     0x000eaa15    0xd67ea cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_str     0x000eaa15    0xd6a6e cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_str     0x000eaa15    0xd65e4 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .debug_str     0x000eaa15    0xd636c cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac.c.obj
- .debug_str     0x000eaa15    0xd6f08 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
- .debug_str     0x000eaa15    0xd67a8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
- .debug_str     0x000eaa15    0xd69c8 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c.obj
- .debug_str     0x000eaa15    0xd68a3 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj
- .debug_str     0x000eaa15     0xa5d9 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
- .debug_str     0x000eaa15     0xc0c9 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_str     0x000eaa15     0xcb86 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
- .debug_str     0x000eaa15     0xc64b cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
- .debug_str     0x000eaa15    0xe04dc cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_str     0x000eaa15     0xaf1b cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
- .debug_str     0x000eaa15     0x87fc cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
- .debug_str     0x000eaa15    0xdb2a4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/main.c.obj
- .debug_str     0x000eaa15    0xd618e CMakeFiles/ElecCtrl_Framework.dir/Core/Src/gpio.c.obj
- .debug_str     0x000eaa15    0xdae28 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
- .debug_str     0x000eaa15    0xd6554 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
- .debug_str     0x000eaa15    0xd695e CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
- .debug_str     0x000eaa15    0xd6571 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
- .debug_str     0x000eaa15    0xd66ab CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
- .debug_str     0x000eaa15    0xd6608 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
- .debug_str     0x000eaa15    0xd6f3a CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
- .debug_str     0x000eaa15    0xd65d4 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
- .debug_str     0x000eaa15    0xd680d CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_str     0x000eaa15    0xd65be CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_str     0x000eaa15    0xd6a55 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
- .debug_str     0x000eaa15       0xc8 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
- .debug_str     0x000eaa15       0x7e D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_str     0x000eaa15      0x696 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .debug_str     0x000eaa15       0x9e D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
- .debug_str     0x000eaa15      0x19b D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memset.o)
- .debug_str     0x000eaa15      0x1e8 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-init.o)
- .debug_str     0x000eaa15       0xa3 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memcpy.o)
+.debug_str      0x00000000    0xeaa05
+ .debug_str     0x00000000    0xeaa05 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj
+                              0xd5ec7 (size before relaxing)
+ .debug_str     0x000eaa05    0xd7251 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_str     0x000eaa05    0xd6a5d cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_str     0x000eaa05    0xd64b4 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj
+ .debug_str     0x000eaa05    0xd62fb cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_str     0x000eaa05    0xd6042 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_str     0x000eaa05    0xd67c7 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_str     0x000eaa05    0xd6a4b cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_str     0x000eaa05    0xd65c1 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+ .debug_str     0x000eaa05    0xd6349 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac.c.obj
+ .debug_str     0x000eaa05    0xd6ee5 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj
+ .debug_str     0x000eaa05    0xd6785 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .debug_str     0x000eaa05    0xd69a5 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c.obj
+ .debug_str     0x000eaa05    0xd6880 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c.obj
+ .debug_str     0x000eaa05     0xa5b6 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
+ .debug_str     0x000eaa05     0xc0a6 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_str     0x000eaa05     0xcb63 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+ .debug_str     0x000eaa05     0xc628 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+ .debug_str     0x000eaa05    0xe04b9 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_str     0x000eaa05     0xaef8 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .debug_str     0x000eaa05     0x87d9 cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_str     0x000eaa05    0xdb281 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/main.c.obj
+ .debug_str     0x000eaa05    0xd616b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/gpio.c.obj
+ .debug_str     0x000eaa05    0xdae18 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj
+ .debug_str     0x000eaa05    0xd6531 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj
+ .debug_str     0x000eaa05    0xd693b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj
+ .debug_str     0x000eaa05    0xd654e CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj
+ .debug_str     0x000eaa05    0xd6688 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj
+ .debug_str     0x000eaa05    0xd65e5 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj
+ .debug_str     0x000eaa05    0xd6f17 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj
+ .debug_str     0x000eaa05    0xd65b1 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj
+ .debug_str     0x000eaa05    0xd67ea CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_str     0x000eaa05    0xd659b CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_str     0x000eaa05    0xd6a32 CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
+ .debug_str     0x000eaa05       0xc8 CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj
+ .debug_str     0x000eaa05       0x7e D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_str     0x000eaa05      0x696 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_str     0x000eaa05       0x9e D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_str     0x000eaa05      0x19b D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memset.o)
+ .debug_str     0x000eaa05      0x1e8 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-init.o)
+ .debug_str     0x000eaa05       0xa3 D:/Msys2/mingw64/bin/../lib/gcc/arm-none-eabi/13.3.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(libc_a-memcpy.o)
 
 .debug_frame    0x00000000     0x7d28
  .debug_frame   0x00000000       0x58 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj

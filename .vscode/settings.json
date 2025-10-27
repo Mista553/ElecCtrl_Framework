@@ -3,6 +3,8 @@
         "robot.h": "c",
         "bsp_init.h": "c",
         "bsp_log.h": "c",
-        "task.h": "c"
+        "task.h": "c",
+        "dji_motor.h": "c",
+        "main.h": "c"
     }
 }
