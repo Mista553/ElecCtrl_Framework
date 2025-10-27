@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake_install.cmake",
-		"E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/stm32cubemx/cmake_install.cmake",
-		"E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/framework/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
