@@ -5,3 +5,5 @@ E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debu
 E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
 E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
 E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
+E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/framework/CMakeFiles/edit_cache.dir
+E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/framework/CMakeFiles/rebuild_cache.dir

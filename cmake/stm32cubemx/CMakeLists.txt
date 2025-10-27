@@ -18,18 +18,7 @@ set(MX_Include_Dirs
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Drivers/CMSIS/Include
-
-    # BSP include paths
-    ${CMAKE_CURRENT_SOURCE_DIR}/../../Bsp
-    ${CMAKE_CURRENT_SOURCE_DIR}/../../Bsp/dwt
-
-    # Modules include paths
-    ${CMAKE_CURRENT_SOURCE_DIR}/../../Modules/motor
-
-    # Application include paths
-    ${CMAKE_CURRENT_SOURCE_DIR}/../../Application
-    
-
+    ${CMAKE_CURRENT_SOURCE_DIR}/../../Middlewares/ST/ARM/DSP/Inc
 )
 
 # STM32CubeMX generated application sources
@@ -100,33 +89,17 @@ set(FreeRTOS_Src
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c
 )
 
-# Bsp files
-set(Bsp_Src
-    ${CMAKE_CURRENT_SOURCE_DIR}/../../Bsp/dwt/bsp_dwt.c
-)
-
-# Modules files
-set(Modules_Src
-    ${CMAKE_CURRENT_SOURCE_DIR}/../../Modules/motor/motor_task.c
-)
-
-
-# Application files
-set(Application_Src
-    ${CMAKE_CURRENT_SOURCE_DIR}/../../Application/robot.c
-)
-
-
 # Link directories setup
 set(MX_LINK_DIRS
 
+    ${CMAKE_CURRENT_SOURCE_DIR}/../../Middlewares/ST/ARM/DSP/Lib
 )
 # Project static libraries
-set(MX_LINK_LIBS 
+set(MX_LINK_LIBS  
+	:libarm_cortexM4lf_math.a
     STM32_Drivers
     ${TOOLCHAIN_LINK_LIBRARIES}
-    FreeRTOS
-	
+    FreeRTOS	
 )
 # Interface library for includes and symbols
 add_library(stm32cubemx INTERFACE)
@@ -146,9 +119,6 @@ target_link_libraries(FreeRTOS PUBLIC stm32cubemx)
 
 # Add STM32CubeMX generated application sources to the project
 target_sources(${CMAKE_PROJECT_NAME} PRIVATE ${MX_Application_Src})
-target_sources(${CMAKE_PROJECT_NAME} PRIVATE ${Bsp_Src})
-target_sources(${CMAKE_PROJECT_NAME} PRIVATE ${Modules_Src})
-target_sources(${CMAKE_PROJECT_NAME} PRIVATE ${Application_Src})
 
 # Link directories setup
 target_link_directories(${CMAKE_PROJECT_NAME} PRIVATE ${MX_LINK_DIRS})

@@ -42,6 +42,11 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/stm32cubemx/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/framework/cmake_install.cmake")
+endif()
+
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
