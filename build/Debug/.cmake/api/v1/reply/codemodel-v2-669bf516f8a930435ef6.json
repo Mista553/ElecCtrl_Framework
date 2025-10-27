@@ -62,21 +62,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ElecCtrl_Framework::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ElecCtrl_Framework-Debug-c7586ce0dd137bebb914.json",
+					"jsonFile" : "target-ElecCtrl_Framework-Debug-c33369d280385b93a35c.json",
 					"name" : "ElecCtrl_Framework",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "FreeRTOS::@768a070a0fe75716b479",
-					"jsonFile" : "target-FreeRTOS-Debug-7d063e789d3959fde1bd.json",
+					"jsonFile" : "target-FreeRTOS-Debug-07f8fafa9faffb2d5dfe.json",
 					"name" : "FreeRTOS",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "STM32_Drivers::@768a070a0fe75716b479",
-					"jsonFile" : "target-STM32_Drivers-Debug-b3cbb554dd5068009531.json",
+					"jsonFile" : "target-STM32_Drivers-Debug-5e89cfe8b8a07e0480f1.json",
 					"name" : "STM32_Drivers",
 					"projectIndex" : 0
 				}

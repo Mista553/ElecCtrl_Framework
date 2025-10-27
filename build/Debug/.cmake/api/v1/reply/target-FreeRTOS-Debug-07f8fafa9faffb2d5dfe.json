@@ -53,19 +53,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 130,
+				"line" : 143,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 132,
+				"line" : 145,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 131,
+				"line" : 144,
 				"parent" : 0
 			}
 		]
@@ -130,15 +130,19 @@
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/stm32cubemx/../../bsp"
+					"path" : "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/stm32cubemx/../../Bsp"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/stm32cubemx/../../bsp/dwt"
+					"path" : "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/stm32cubemx/../../Bsp/dwt"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/stm32cubemx/../../application"
+					"path" : "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/stm32cubemx/../../Modules/motor"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/stm32cubemx/../../Application"
 				}
 			],
 			"language" : "C",
