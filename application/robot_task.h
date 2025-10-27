@@ -5,10 +5,15 @@
 #include "main.h"
 #include "cmsis_os.h"
 
-osThreadId motorTaskHandle;
+osThreadId_t motorTaskHandle;
 
+const osThreadAttr_t motorTask_attributes = {
+    .name = "moterTask",
+    .stack_size = 128 * 4,
+    .priority = (osPriority_t) osPriorityNormal,
+};
 
-void StartMOTORTASK(void const *argument);
+void StartMOTORTASK(void *argument);
 
 /**
  * @brief 初始化机器人任务,所有持续运行的任务都在这里初始化
@@ -16,13 +21,13 @@ void StartMOTORTASK(void const *argument);
  */
 void OSTaskInit()
 {
-    osThreadDef(motortask, StartMOTORTASK, osPriorityNormal, 0, 256);
-    motorTaskHandle = osThreadCreate(osThread(motortask), NULL);
+
+    motorTaskHandle = osThreadNew(StartMOTORTASK, NULL, &motorTask_attributes);
 
 }
 
 
-__attribute__((noreturn)) void StartMOTORTASK(void const *argument)
+__attribute__((noreturn)) void StartMOTORTASK(void *argument)
 {
     static float motor_dt;
     static float motor_start;
