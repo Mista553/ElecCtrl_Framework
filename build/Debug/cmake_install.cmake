@@ -1,4 +1,4 @@
-# Install script for directory: D:/ElecCtrl_Framework/ElecCtrl_Framework
+# Install script for directory: E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,18 +34,23 @@ endif()
 
 # Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/msys2/mingw64/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/Msys2/mingw64/bin/arm-none-eabi-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/stm32cubemx/cmake_install.cmake")
+  include("E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/stm32cubemx/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/framework/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/install_local_manifest.txt"
+  file(WRITE "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -61,6 +66,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

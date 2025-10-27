@@ -1,4 +1,4 @@
-# Install script for directory: E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/stm32cubemx
+# Install script for directory: E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/framework
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,6 +40,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/stm32cubemx/install_local_manifest.txt"
+  file(WRITE "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/build/Debug/cmake/framework/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
