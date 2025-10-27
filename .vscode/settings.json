@@ -5,6 +5,7 @@
         "bsp_log.h": "c",
         "task.h": "c",
         "dji_motor.h": "c",
-        "main.h": "c"
+        "main.h": "c",
+        "bsp_dwt.h": "c"
     }
 }
