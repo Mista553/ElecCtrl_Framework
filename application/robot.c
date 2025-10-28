@@ -32,5 +32,4 @@ void RobotInit()
 void RobotTask()
 {
     BalanceChassisTask();
-
 }
