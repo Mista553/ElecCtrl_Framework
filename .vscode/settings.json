@@ -11,6 +11,8 @@
         "arm_math.h": "c",
         "math.h": "c",
         "robot_def.h": "c",
-        "config.h": "c"
+        "config.h": "c",
+        "motor_task.h": "c",
+        "ins_task.h": "c"
     }
 }

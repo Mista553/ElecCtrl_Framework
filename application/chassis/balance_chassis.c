@@ -55,7 +55,7 @@ static float vt_lf, vt_rf, vt_lb, vt_rb;             // 底盘速度解算后的
 static float rl_vt_lf, rl_vt_rf, rl_vt_lb, rl_vt_rb; // 底盘真实速度 m/s
 
 #ifndef GIMBAL_BOARD
-void ChassisInit()
+void BalanceChassisInit()
 {
     static float half_wheel_base, half_track_width, perimeter_wheel;    // 半轴距,半轮距,轮子周长
     static float center_gimbal_offset_x, center_gimbal_offset_y;        // 中心云台偏移量
@@ -157,101 +157,6 @@ static void ChassisCalculate()
     }
 }
 
-// /**
-//  * @brief 根据裁判系统和电容剩余容量对输出进行限制并设置电机参考值
-//  *
-//  */
-// static void LimitChassisOutput()
-// {
-//     // 底盘电机顺序和限制速度电机顺序一致，通过指针访问减少内存浪费
-//     static Motor_Controller_s *motor_controller;   // 电机控制器指针
-//     static DJI_Motor_Measure_s *measure;           // 电机测量值指针    
-//     DJIMotorInstance *motor[4] = {motor_lf, motor_rf, motor_lb, motor_rb};
-//     float limit_vt[4] = {vt_lf, vt_rf, vt_lb, vt_rb};
-
-//     float currentPower[4];
-//     float error[4];
-//     float allocatablePower, sumPowerRequired, sumCurrentPower, sumError;
-//     float errorConfidence, powerWeight_Error, powerWeight_Prop, powerWeight, delta;
-
-//     // 裁判系统获得的功率限制值
-//     allocatablePower = chassis_cmd_recv.power_limit;
-//     for (int i = 0; i < 4; i++)
-//     {   
-//         // 不用速度闭环，开启开环控制方便直接输出电流值
-//         DJIMotorOuterLoop(motor[i], OPEN_LOOP);
-//         DJIMotorCloseLoop(motor[i], OPEN_LOOP);        
-
-//         measure = &motor[i]->measure;
-//         motor_controller = &motor[i]->motor_controller;   
-
-//         if (motor[i]->motor_settings.motor_reverse_flag == MOTOR_DIRECTION_REVERSE)
-//             limit_vt[i] *= -1;
-
-//         // 实时计算速度环PID输出
-//         limit_vt[i] = PIDCalculate(&motor_controller->speed_PID, measure->speed_aps, limit_vt[i]);
-//         limit_vt[i] = PIDCalculate(&motor_controller->current_PID, measure->real_current, limit_vt[i]);   
-
-//         currentPower[i] = motor_controller->current_PID.Output * TOQUE_COEFFICIENT_3508 * measure->speed_aps * DEGREE_2_RAD + power_manager->k1 * fabs(measure->speed_aps) * DEGREE_2_RAD + \
-//                         power_manager->k2 * motor_controller->current_PID.Output * TOQUE_COEFFICIENT_3508 * motor_controller->current_PID.Output * TOQUE_COEFFICIENT_3508 + power_manager->k3;
-//         error[i] = fabs(motor_controller->speed_PID.Ref - measure->speed_aps); 
-//         sumCurrentPower += currentPower[i]; 
-
-
-//         if (floatEqual(currentPower[i], 0.0f) || currentPower[i] < 0.0f) 
-//         {
-//             allocatablePower += -currentPower[i];
-//         }
-//         else
-//         {
-//             sumPowerRequired += currentPower[i];
-//             sumError += error[i];
-//         }                
-//     }  
-
-//     // 当前功率大于最大功率时进行功率分配
-//     if (sumCurrentPower > chassis_cmd_recv.power_limit)
-//     {
-//         // 等比缩放保证每个轮子输出限制功率下最大功率
-//         if (sumError > ERROR_POWERDISTRIBUTE)
-//             errorConfidence = 1.0f;
-//         else if (sumError > PROP_POWERDISTRIBUTE)
-//             errorConfidence = float_constrain((sumError - PROP_POWERDISTRIBUTE) / (ERROR_POWERDISTRIBUTE - PROP_POWERDISTRIBUTE), 0.0f, 1.0f);
-//         else
-//             errorConfidence = 0.0f;
-            
-//         for (int i = 0; i < 4; i++)
-//         { 
-//             measure = &motor[i]->measure;
-//             motor_controller = &motor[i]->motor_controller;              
-
-//             if (floatEqual(currentPower[i], 0.0f) || currentPower[i] < 0.0f)
-//                 continue;
-
-//             // 功率分配避免起步时无法走直线，同时云台跟随也可以避免此问题
-//             powerWeight_Error = fabs(motor_controller->speed_PID.Ref - measure->speed_aps) / sumError;
-//             powerWeight_Prop  = currentPower[i] / sumPowerRequired;
-//             powerWeight       = errorConfidence * powerWeight_Error + (1.0f - errorConfidence) * powerWeight_Prop;
-//             delta             = measure->speed_aps * DEGREE_2_RAD * measure->speed_aps * DEGREE_2_RAD - 
-//                         4.0f * power_manager->k2 * (power_manager->k1 * fabs(measure->speed_aps) * DEGREE_2_RAD - powerWeight * allocatablePower + power_manager->k3);
-//             // 求解出力矩并且转换成电流值
-//             if (floatEqual(delta, 0.0f))  
-//                 limit_vt[i] = (((-measure->speed_aps * DEGREE_2_RAD)) / (2.0f * power_manager->k2)) / TOQUE_COEFFICIENT_3508;
-//             else if (delta > 0.0f)  
-//                 limit_vt[i] = motor_controller->current_PID.Output > 0.0f ? ((-measure->speed_aps * DEGREE_2_RAD + sqrtf(delta)) / (2.0f * power_manager->k2)) / TOQUE_COEFFICIENT_3508 \
-//                                 : (((-measure->speed_aps * DEGREE_2_RAD - sqrtf(delta))) / (2.0f * power_manager->k2)) / TOQUE_COEFFICIENT_3508;
-//             else  
-//                 limit_vt[i] = (((-measure->speed_aps * DEGREE_2_RAD)) / (2.0f * power_manager->k2)) / TOQUE_COEFFICIENT_3508;
-//         }                
-//     }  
-
-//     // 输出功率限制后电流值
-//     DJIMotorSetRef(motor_lf, limit_vt[0]);
-//     DJIMotorSetRef(motor_rf, limit_vt[1]);
-//     DJIMotorSetRef(motor_lb, limit_vt[2]);
-//     DJIMotorSetRef(motor_rb, limit_vt[3]);           
-// }
-
 #define RPM_2_VECTOR (ANGLE_2_RPM_PER_MIN * RPM_2_WHEEL_VECTOR)
 /**
  * @brief 根据每个轮子的速度反馈,计算底盘的实际运动速度,逆运动解算
@@ -275,7 +180,7 @@ static void EstimateSpeed()
     // chassis_feedback_data.real_wz = (rl_vt_rf - rl_vt_lb) / (2.0f * (HALF_WHEEL_BASE * MM_2_M + HALF_TRACK_WIDTH * MM_2_M));
 }
 /* 机器人底盘控制核心任务 */
-void ChassisTask()
+void BalanceChassisTask()
 {
     // 后续增加没收到消息的处理(双板的情况)
     // 获取新的控制信息

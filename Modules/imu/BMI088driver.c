@@ -207,7 +207,7 @@ void Calibrate_MPU_Offset(IMU_Data_t *bmi088)
                 gyroDiff[1] > 0.15f ||
                 gyroDiff[2] > 0.15f)
             {
-                LOGWARNING("[bmi088] calibration was interrupted\n");
+                // LOGWARNING("[bmi088] calibration was interrupted\n");
                 break;
             }
 

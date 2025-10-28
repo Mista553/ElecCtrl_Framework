@@ -18,29 +18,6 @@
 
 #include "config.h"
 
-// /* 开发板类型定义,无人机和飞镖使用云台板,其他兵种使用单板(待加入平衡) */
-// #if (!defined(DART_ROBOT) && !defined(AERIAL_ROBOT))
-//     #define ONE_BOARD 
-// #endif
-// // #define CHASSIS_BOARD //底盘板
-// #if (defined(DART_ROBOT) || defined(AERIAL_ROBOT))
-//     #define GIMBAL_BOARD  
-// #endif
-
-// // 检查是否存在该机器人ID,不存在则编译会自动报错
-// #if (!defined(INFANTRY_ROBOT) && !defined(SENTINEL_ROBOT)) && \
-//     (!defined(HERO_ROBOT) && !defined(ENGINEER_ROBOT)) && \
-//     (!defined(AERIAL_ROBOT) && !defined(DART_ROBOT))
-// #error None Robot ID definition! You can only define ID from 0 to 5.
-// #endif
-
-// // 检查是否出现底盘类型冲突,只允许一个底盘类型定义存在,否则编译会自动报错
-// #if (defined(MECANUM_WHEEL) && defined(OMIN_WHEEL)) || \
-//     (defined(MECANUM_WHEEL) && defined(STEER_WHEEL)) ||  \
-//     (defined(OMIN_WHEEL) && defined(STEER_WHEEL))
-// #error Conflict chassis wheel definition! You can only define one chassis type.
-// #endif
-
 #pragma pack(1) // 压缩结构体,取消字节对齐,下面的数据都可能被传输
 /* -------------------------基本控制模式和数据类型定义-------------------------*/
 /**
