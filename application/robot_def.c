@@ -23,25 +23,6 @@ Robot_Config_s *RobotConfigInit(uint8_t id)
     {
         switch (id)
         {
-        case HERO_ROBOT:
-            instance = HeroConfigInit();
-            break;
-        case ENGINEER_ROBOT:
-            break;
-        case INFANTRY_ROBOT_3:
-            instance = InfantryConfigInit(INFANTRY_ROBOT_3);
-            break;
-        case INFANTRY_ROBOT_4:
-            instance = InfantryConfigInit(INFANTRY_ROBOT_4);
-            break;
-        case INFANTRY_ROBOT_5:
-            instance = InfantryConfigInit(INFANTRY_ROBOT_5);
-            break;
-        case AERIAL_ROBOT:
-            break;
-        case SENTINEL_ROBOT:
-            instance = SentinelConfigInit();
-            break;
         case DART_ROBOT:
             break;
         default:
@@ -57,12 +38,3 @@ Chassis_Config_s *ChassisConfigFeed(void)
 {
     return &robot_instance->chassis_param;
 }
-
-// Gimbal_Config_s *GimbalConfigFeed(void)
-// {
-//     return &robot_instance->gimbal_param;
-// }
-// Shoot_Config_s *ShootConfigFeed(void)
-// {
-//     return &robot_instance->shoot_param;
-// }

@@ -1,38 +1,4 @@
 # ninja log v7
-<<<<<<< HEAD
-111	284	7833409916225048	CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj	d46cfa4ee286293f
-95	400	7833409916074092	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/sysmem.c.obj	e53f8ea4e5664b52
-255	437	7833409917677918	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj	40a7e061e6d5cf19
-10	468	7833409915213624	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/main.c.obj	f910470cda6ee7d9
-25	503	7833409915365891	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/adc.c.obj	7a4b9b5b0ece30c8
-32	504	7833409915435634	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/can.c.obj	cb80a8444634f42a
-15	512	7833409915262317	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/gpio.c.obj	ae147de76e72b7ee
-20	518	7833409915305117	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/freertos.c.obj	47ba849b0a84d0b3
-39	551	7833409915511370	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/dac.c.obj	1348ce3e48595f80
-104	567	7833409916157345	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/syscalls.c.obj	e09182f1c20df9ac
-65	574	7833409915764864	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/usb_otg.c.obj	b5a71ca04650db0e
-46	595	7833409915582064	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/i2c.c.obj	a1acacd9cd79eadf
-72	602	7833409915844780	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_it.c.obj	fbb0ef98a6de61c3
-53	615	7833409915646932	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/spi.c.obj	6b02886551051a97
-80	617	7833409915927356	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_msp.c.obj	bdbf3c475e1444ae
-59	618	7833409915710500	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/tim.c.obj	87df4cdf2b3d5e08
-89	630	7833409916006099	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj	488f4a349a7b7e9e
-126	708	7833409916379443	CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj	e0761b5002f3682c
-198	710	7833409917099025	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj	497dea221407971a
-118	721	7833409916304533	CMakeFiles/ElecCtrl_Framework.dir/Bsp/can/bsp_can.c.obj	744183ebbd6c21f2
-178	739	7833409916909322	CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj	a1e8d9ac247826de
-147	764	7833409916593178	CMakeFiles/ElecCtrl_Framework.dir/Modules/daemon/daemon.c.obj	1d2bdf595f241fe6
-274	765	7833409917864904	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	4b802e79e8db35cf
-285	766	7833409917973470	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	f4e1e3dfc24bcda3
-246	775	7833409917581840	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj	db2e39569f25e8a7
-233	779	7833409917456720	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj	3f7f5614fc6b41b2
-137	796	7833409916488127	CMakeFiles/ElecCtrl_Framework.dir/Modules/algorithm/controller.c.obj	cbf3f9417d5074d0
-264	798	7833409917763032	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	251fe54160e22543
-156	812	7833409916699498	CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/motor_task.c.obj	7546c94437e677be
-224	827	7833409917360939	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	a0c23dd476152c69
-170	840	7833409916814074	CMakeFiles/ElecCtrl_Framework.dir/Modules/motor/DJImotor/dji_motor.c.obj	92da34bc196c6725
-214	938	7833409917268057	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	88b826a657735db9
-=======
 86	204	7833409991926006	CMakeFiles/ElecCtrl_Framework.dir/startup_stm32f407xx.s.obj	685aeeffca8af4be
 71	317	7833409991770473	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/sysmem.c.obj	679baf64c0b3350e
 78	440	7833409991842513	CMakeFiles/ElecCtrl_Framework.dir/Core/Src/syscalls.c.obj	c0bd2ea7276e0fd6
@@ -54,7 +20,7 @@
 318	889	7833409994243531	CMakeFiles/ElecCtrl_Framework.dir/Bsp/dwt/bsp_dwt.c.obj	beaaa47d336a52c8
 441	1196	7833409995462994	CMakeFiles/ElecCtrl_Framework.dir/Modules/algorithm/controller.c.obj	a832c26b8481c48a
 626	1112	7833404871633571	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj	5b915f9e8f37b7af
-618	1206	7833409997238617	CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj	9da1031f9dd460bd
+9	347	7833427767886596	CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj	9da1031f9dd460bd
 657	1212	7833404871938429	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj	ad14695003f6b003
 641	1324	7833404871784713	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	1553169adaf12b83
 16	522	7833405092508152	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	fd5c194d0ccea735
@@ -94,16 +60,17 @@
 78	546	7833406299750774	cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj	aca31d641927590c
 21	916	7833406299173822	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c.obj	849d3edeb19ec10e
 620	1217	7833406666627495	cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj	c9e4c7ab1356b9bb
-2447	2831	7833364541148395	ElecCtrl_Framework.elf	1b0a530fbd29c002
+348	785	7833427771276276	ElecCtrl_Framework.elf	1e325fab7ca62308
 583	1084	7833409996893759	CMakeFiles/ElecCtrl_Framework.dir/Modules/imu/BMI088Middleware.c.obj	34def510f779cbff
 552	1207	7833409996581255	CMakeFiles/ElecCtrl_Framework.dir/Modules/algorithm/user_lib.c.obj	c04013fda72ea472
 17	169	7833410271785859	CMakeFiles/ElecCtrl_Framework.dir/Modules/message_center/message_center.c.obj	f479f7ee4d158113
-8	362	7833410533045622	CMakeFiles/ElecCtrl_Framework.dir/Modules/imu/BMI088driver.c.obj	9b041bf494f709d1
+9	300	7833423270880216	CMakeFiles/ElecCtrl_Framework.dir/Modules/imu/BMI088driver.c.obj	9b041bf494f709d1
 9	342	7833411985425672	CMakeFiles/ElecCtrl_Framework.dir/Modules/algorithm/kalman_filter.c.obj	49b2ec846757880f
 13	350	7833411985471210	CMakeFiles/ElecCtrl_Framework.dir/Modules/algorithm/QuaternionEKF.c.obj	3338c8c18f012176
-9	475	7833416657629623	CMakeFiles/ElecCtrl_Framework.dir/Modules/imu/ins_task.c.obj	bacbb02cec2d6ca0
+9	380	7833423083365589	CMakeFiles/ElecCtrl_Framework.dir/Modules/imu/ins_task.c.obj	bacbb02cec2d6ca0
 18	425	7833414331560107	CMakeFiles/ElecCtrl_Framework.dir/Application/config/infantry_robot/infantry_config.c.obj	fdf31c5aceb863c4
-21	448	7833416657742459	CMakeFiles/ElecCtrl_Framework.dir/Application/chassis/balance_chassis.c.obj	8af1d5c249b0b171
-10	353	7833416866706455	CMakeFiles/ElecCtrl_Framework.dir/Application/robot_def.c.obj	23b8d38f7e029257
-354	811	7833416870148764	ElecCtrl_Framework.elf	1e325fab7ca62308
->>>>>>> 7efda366d82622581d8242e2fe220b83f2f9c878
+14	389	7833427308129541	CMakeFiles/ElecCtrl_Framework.dir/Application/chassis/balance_chassis.c.obj	8af1d5c249b0b171
+9	339	7833427513135843	CMakeFiles/ElecCtrl_Framework.dir/Application/robot_def.c.obj	23b8d38f7e029257
+9	381	7833429582287661	CMakeFiles/ElecCtrl_Framework.dir/Application/robot.c.obj	9da1031f9dd460bd
+13	382	7833429582337053	CMakeFiles/ElecCtrl_Framework.dir/Application/robot_def.c.obj	23b8d38f7e029257
+382	839	7833429586019945	ElecCtrl_Framework.elf	1e325fab7ca62308

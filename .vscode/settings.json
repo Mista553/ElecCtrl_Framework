@@ -9,31 +9,10 @@
         "bsp_dwt.h": "c",
         "user_lib.h": "c",
         "arm_math.h": "c",
-<<<<<<< HEAD
-        "stm32f4xx_hal_def.h": "c",
-        "general_def.h": "c",
-        "balance_chassis.h": "c",
-        "stdint.h": "c",
-        "bmi088driver.h": "c",
-        "ins_task.h": "c",
-        "stm32f407xx.h": "c",
-        "robot_def.h": "c",
-        "daemon.h": "c",
-        "bit": "c",
-        "compare": "c",
-        "limits": "c",
-        "new": "c",
-        "seasky_protocol.h": "c",
-        "master_process.h": "c",
-        "bsp_usart.h": "c",
-        "stdio.h": "c",
-        "bsp_usb.h": "c",
-        "usb_device.h": "c",
-        "stm32f4xx_hal.h": "c"
-=======
         "math.h": "c",
         "robot_def.h": "c",
-        "config.h": "c"
->>>>>>> 7efda366d82622581d8242e2fe220b83f2f9c878
+        "config.h": "c",
+        "motor_task.h": "c",
+        "ins_task.h": "c"
     }
 }
