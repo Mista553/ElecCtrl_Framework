@@ -8,6 +8,13 @@
         "main.h": "c",
         "bsp_dwt.h": "c",
         "user_lib.h": "c",
-        "arm_math.h": "c"
+        "arm_math.h": "c",
+        "stm32f4xx_hal_def.h": "c",
+        "general_def.h": "c",
+        "balance_chassis.h": "c",
+        "stdint.h": "c",
+        "bmi088driver.h": "c",
+        "ins_task.h": "c",
+        "stm32f407xx.h": "c"
     }
 }

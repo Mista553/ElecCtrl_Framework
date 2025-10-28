@@ -11,7 +11,7 @@
  *
  */
 
-#include "chassis.h"
+#include "balance_chassis.h"
 #include "robot_def.h"
 #include "dji_motor.h"
 // #include "super_cap.h"

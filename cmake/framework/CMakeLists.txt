@@ -15,6 +15,7 @@ set(Include_Dirs
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Modules/motor
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Modules/motor/DJImotor
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Modules/tools
+    ${CMAKE_CURRENT_SOURCE_DIR}/../../Modules/imu
 
     # Application include paths
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Application
@@ -31,6 +32,7 @@ set(Src_Dirs
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Modules/motor/DJImotor/dji_motor.c
 
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Application/robot.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/../../Application/chassis/balance_chassis.c
 )
 
 # Interface library for includes and symbols

@@ -3,7 +3,7 @@ set(CMAKE_HOST_SYSTEM_NAME "Windows")
 set(CMAKE_HOST_SYSTEM_VERSION "10.0.26100")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "AMD64")
 
-include("E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/gcc-arm-none-eabi.cmake")
+include("D:/ElecCtrl_Framework/ElecCtrl_Framework/cmake/gcc-arm-none-eabi.cmake")
 
 set(CMAKE_SYSTEM "Generic")
 set(CMAKE_SYSTEM_NAME "Generic")
