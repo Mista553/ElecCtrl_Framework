@@ -3,6 +3,11 @@
         "robot.h": "c",
         "bsp_init.h": "c",
         "bsp_log.h": "c",
-        "task.h": "c"
+        "task.h": "c",
+        "dji_motor.h": "c",
+        "main.h": "c",
+        "bsp_dwt.h": "c",
+        "user_lib.h": "c",
+        "arm_math.h": "c"
     }
 }
