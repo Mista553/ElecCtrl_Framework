@@ -18,7 +18,11 @@
 #include "tim.h"
 #include "user_lib.h"
 #include "general_def.h"
+<<<<<<< HEAD
 #include "master_process.h"
+=======
+// #include "master_process.h"
+>>>>>>> 7efda366d82622581d8242e2fe220b83f2f9c878
 
 static INS_t INS;
 static IMU_Param_t IMU_Param;

@@ -9,6 +9,7 @@
         "bsp_dwt.h": "c",
         "user_lib.h": "c",
         "arm_math.h": "c",
+<<<<<<< HEAD
         "stm32f4xx_hal_def.h": "c",
         "general_def.h": "c",
         "balance_chassis.h": "c",
@@ -29,5 +30,10 @@
         "bsp_usb.h": "c",
         "usb_device.h": "c",
         "stm32f4xx_hal.h": "c"
+=======
+        "math.h": "c",
+        "robot_def.h": "c",
+        "config.h": "c"
+>>>>>>> 7efda366d82622581d8242e2fe220b83f2f9c878
     }
 }
