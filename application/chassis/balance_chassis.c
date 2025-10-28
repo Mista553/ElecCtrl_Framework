@@ -108,26 +108,8 @@ void BalanceChassisInit()
     //     };
     // power_manager = PowerControlInit(&power_manager_conf); // 功率管理初始化 
 
-    // 发布订阅初始化,如果为双板,则需要can comm来传递消息
-#ifdef CHASSIS_BOARD
-    Chassis_IMU_data = INS_Init(); // 底盘IMU初始化
-
-    CANComm_Init_Config_s comm_conf = {
-        .can_config = {
-            .can_handle = &hcan2,
-            .tx_id = 0x311,
-            .rx_id = 0x312,
-        },
-        .recv_data_len = sizeof(Chassis_Ctrl_Cmd_s),
-        .send_data_len = sizeof(Chassis_Upload_Data_s),
-    };
-    chasiss_can_comm = CANCommInit(&comm_conf); // can comm初始化
-#endif                                          // CHASSIS_BOARD
-
-#ifdef ONE_BOARD // 单板控制整车,则通过pubsub来传递消息
     chassis_sub = SubRegister("chassis_cmd", sizeof(Chassis_Ctrl_Cmd_s));
     chassis_pub = PubRegister("chassis_feed", sizeof(Chassis_Upload_Data_s));
-#endif // ONE_BOARD
 }
 
 /**
