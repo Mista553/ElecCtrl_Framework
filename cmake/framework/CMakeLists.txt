@@ -31,6 +31,9 @@ set(Src_Dirs
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Modules/motor/DJImotor/dji_motor.c
 
     ${CMAKE_CURRENT_SOURCE_DIR}/../../Application/robot.c
+    
+
+    ${CMAKE_CURRENT_SOURCE_DIR}/../../Application/config/infantry_robot/infantry_config.c
 )
 
 # Interface library for includes and symbols
