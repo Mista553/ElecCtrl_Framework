@@ -236,7 +236,7 @@ CMAKE_STRIP:FILEPATH=D:/Msys2/mingw64/bin/arm-none-eabi-strip.exe
 CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 
 //No help, variable specified on the command line.
-CMAKE_TOOLCHAIN_FILE:UNINITIALIZED=E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/gcc-arm-none-eabi.cmake
+CMAKE_TOOLCHAIN_FILE:UNINITIALIZED=E:\Robomaster\Program\RM2026_RA_ElecCtrl_Framework\ElecCtrl_Framework/cmake/gcc-arm-none-eabi.cmake
 
 //If this value is on, makefiles will be generated without the
 // .SILENT directive, and all commands will be echoed to the console

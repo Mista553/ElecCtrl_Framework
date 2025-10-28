@@ -8,6 +8,9 @@
         "main.h": "c",
         "bsp_dwt.h": "c",
         "user_lib.h": "c",
-        "arm_math.h": "c"
+        "arm_math.h": "c",
+        "math.h": "c",
+        "robot_def.h": "c",
+        "config.h": "c"
     }
 }

@@ -1259,7 +1259,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "E:/Robomaster/Program/RM2026_RA_ElecCtrl_Framework/ElecCtrl_Framework/cmake/gcc-arm-none-eabi.cmake"
+			"value" : "E:\\Robomaster\\Program\\RM2026_RA_ElecCtrl_Framework\\ElecCtrl_Framework/cmake/gcc-arm-none-eabi.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
